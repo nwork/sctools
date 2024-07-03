@@ -6,7 +6,7 @@
   "devDependencies": {
     "busboy": "^0.2.9",
     "express": "^4.12.3",
-    "grunt": "~0.4.0",
+    "grunt": "~1.6.1",
     "grunt-bower": "^0.18.0",
     "grunt-contrib-jshint": "^0.11.1",
     "grunt-nodemon": "^0.4.0",
